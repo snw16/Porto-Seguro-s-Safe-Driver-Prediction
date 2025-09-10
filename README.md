@@ -23,7 +23,7 @@ Visualization & Reporting: Generated interactive reports in Power BI for present
 Collaboration: Worked in a cross-functional academic setting with professors and peers to align technical execution with project goals.
 
 📊 Results
-Normalized Gini Score: 0.28 (Validation Set)
+Normalized Gini Score: 0.285 (Validation Set)
 
 Outcome: Provided actionable insights for risk assessment in driver safety prediction.
 
